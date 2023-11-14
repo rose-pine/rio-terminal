@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for <a target="_blank" href="https://raphamorim.io/rio/">Rio Terminal</a></h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,35 +13,27 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Download theme files
+    * **Via git:** if you are a git user, you can install the theme and keep up to date by cloning the repo:
+
+        ```sh
+        git clone git@github.com:avelino/rose-pine-rio-term.git
+        ```
+
+    * **Via zip file:** download using the [GitHub `.zip` download](https://github.com/avelino/rose-pine-rio-term/archive/master.zip) option and unzip them.
+2. Move `*.toml` (theme files, ) to inside themes folder in `$HOME/.rio/themes` _(e.g: `~/.rio/themes`)_, we have the themes:
+    * `rose-pine.toml`
+    * `rose-pine-moon.toml`
+    * `rose-pine-dawn.toml`
+3. Update `$HOME/.rio/config.toml` to activate the theme:
+
+    ```toml
+    [style]
+    theme = "rose-pine.toml" # or rose-pine-moon.toml or rose-pine-dawn.toml
+    ```
+
+> **Note:** Rio Terminal will automatically reload the theme
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
-
-## Thanks to
-
-- [You, it's you!](https://github.com/<username>)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include [existing categories](https://rosepinetheme.com/themes)
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+![Rosé Pine with Rio, theme Rosé Pine main](./assets/rio-rose-pine-main.png)
