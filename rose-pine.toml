@@ -1,8 +1,8 @@
 [colors]
 background           = '#191724'
 foreground           = '#e0def4'
-selection-background = '#191724'
-selection-foreground = '#e0def4'
+selection-background = '#e0def4'
+selection-foreground = '#191724'
 cursor               = '#e0def4'
 black                = '#26233a'
 red                  = '#eb6f92'
