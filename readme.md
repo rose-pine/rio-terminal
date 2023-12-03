@@ -36,4 +36,14 @@
 
 ## Gallery
 
+### main
+
 ![Rosé Pine with Rio, theme Rosé Pine main](./assets/rio-rose-pine-main.png)
+
+### dawn
+
+![Rosé Pine with Rio, theme Rosé Pine dawn](./assets/rio-rose-pine-dawn.png)
+
+### moon
+
+![Rosé Pine with Rio, theme Rosé Pine moon](./assets/rio-rose-pine-moon.png)
