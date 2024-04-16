@@ -38,17 +38,17 @@
 
 ## Gallery
 
-### main
+### Rosé Pine
 
-![Rosé Pine with Rio, theme Rosé Pine main](./assets/rio-rose-pine-main.png)
+![Rosé Pine with Rio](https://github.com/rose-pine/rio-terminal/assets/1474821/887f8581-4ff4-4d99-881f-bf9fc0e95372)
 
-### dawn
+### Rosé Pine Moon
 
-![Rosé Pine with Rio, theme Rosé Pine dawn](./assets/rio-rose-pine-dawn.png)
+![Rosé Pine Moon with Rio](https://github.com/rose-pine/rio-terminal/assets/1474821/a4a9c28e-3bf3-490e-9c2e-3c5703005eab)
 
-### moon
+### Rosé Pine Dawn
 
-![Rosé Pine with Rio, theme Rosé Pine moon](./assets/rio-rose-pine-moon.png)
+![Rosé Pine Dawn with Rio](https://github.com/rose-pine/rio-terminal/assets/1474821/7f945421-cd93-4c92-93c7-941e07d11c6a)
 
 <!-- #rose-pine-build -->
 
