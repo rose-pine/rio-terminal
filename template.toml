@@ -1,0 +1,37 @@
+[colors]
+background = '$base'
+foreground = '$text'
+selection-background = '$highlightMed'
+selection-foreground = '$text'
+
+cursor = '$text'
+
+tabs = '$base'
+tabs-active = '$overlay'
+
+black = '$overlay'
+red = '$love'
+green = '$pine'
+yellow = '$gold'
+blue = '$foam'
+magenta = '$iris'
+cyan = '$rose'
+white = '$text'
+
+dim-black = '$muted'
+dim-red = '$love'
+dim-green = '$pine'
+dim-yellow = '$gold'
+dim-blue = '$foam'
+dim-magenta = '$iris'
+dim-cyan = '$rose'
+dim-white = '$text'
+
+light-black = '$muted'
+light-red = '$love'
+light-green = '$pine'
+light-yellow = '$gold'
+light-blue = '$foam'
+light-magenta = '$iris'
+light-cyan = '$rose'
+light-white = '$text'
